@@ -1,0 +1,33 @@
+_repo: Child-LandPicture-Pages-for-the-Little-Ones_26164
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Pletsch, Oscar
+    birthdate: 1830
+    deathdate: 1888
+    gutenberg_agent_id: '31839'
+    url: http://www.gutenberg.org/2009/agents/31839
+  - agent_name: Richter, M.
+    gutenberg_agent_id: '31840'
+    url: http://www.gutenberg.org/2009/agents/31840
+covers:
+- cover_type: archival
+  image_path: 26164-h/images/imgcover.jpg
+description: ''
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Illustrated children''s books'
+- !lcsh 'Readers (Primary)'
+- !lcsh 'Children''s stories, English'
+title: 'Child-Land
+
+  Picture-Pages for the Little Ones'
+url: http://www.gutenberg.org/ebooks/26164
