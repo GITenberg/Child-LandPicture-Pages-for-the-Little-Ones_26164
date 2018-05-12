@@ -14,6 +14,8 @@ covers:
 - cover_type: archival
   image_path: 26164-h/images/imgcover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26164#Child-LandPicture-Pages-for-the-Little-Ones
 gutenberg_issued: '2008-08-01'
 gutenberg_type: Text
 identifiers:
